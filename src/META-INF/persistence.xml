@@ -5,7 +5,7 @@
              version="2.1">
 
     <persistence-unit name="postgresql" transaction-type="RESOURCE_LOCAL">
-    	<class>br.com.argus.model.Usuario</class>
+    	<class>br.com.gps.model.</class>
    
      	
         

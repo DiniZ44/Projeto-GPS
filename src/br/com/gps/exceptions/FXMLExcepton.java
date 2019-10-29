@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.argus.exceptions;
+package br.com.gps.exceptions;
 import java.io.IOException;
 /**
  *

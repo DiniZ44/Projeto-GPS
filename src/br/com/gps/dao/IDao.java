@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.argus.dao;
+package br.com.gps.dao;
 
-import br.com.argus.exceptions.DAOException;
-import br.com.argus.model.Entidade;
+import br.com.gps.exceptions.DAOException;
+import br.com.gps.model.Entidade;
 import java.util.List;
 
 /**
